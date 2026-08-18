@@ -1,0 +1,3 @@
+# Desconjuração usa apenas a biblioteca padrão do Python.
+# Tkinter normalmente acompanha a instalação do Python; em algumas distribuições Linux,
+# pode ser necessário instalar o pacote do sistema python3-tk.
